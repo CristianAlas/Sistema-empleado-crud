@@ -13,6 +13,25 @@ desarrollada con el objetivo de gestionar información mediante operaciones
 - Controladores para manejo de entidades
 - Uso de Entity Framework Core
 
+## Script
+
+```
+create database BDCrud
+go 
+
+use BDCrud;
+go 
+
+create table Empleado(
+IdEmpleado int primary key identity,
+Nombre varchar(50),
+Correo varchar(50),
+Sueldo int
+)
+go
+
+```
+
 ### 🌐 Frontend (Interfaz de Usuario)
 - Interfaz desarrollada con tecnologías modernas como **React**
 - Comunicación con la API mediante solicitudes HTTP
