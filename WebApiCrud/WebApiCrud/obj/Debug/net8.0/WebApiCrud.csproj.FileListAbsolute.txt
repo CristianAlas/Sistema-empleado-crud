@@ -1,0 +1,344 @@
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\appsettings.Development.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\appsettings.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.staticwebassets.endpoints.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.exe
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.deps.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.runtimeconfig.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.pdb
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Azure.Core.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Azure.Identity.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Humanizer.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.ClientModel.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.CodeDom.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Text.Json.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.csproj.AssemblyReference.cache
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.AssemblyInfoInputs.cache
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.AssemblyInfo.cs
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.csproj.CoreCompileInputs.cache
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\scopedcss\bundle\WebApiCrud.styles.css
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.build.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.development.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.WebApiCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.WebApiCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiCrud.props
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiCrud.props
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiCrud.props
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.csproj.Up2Date
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\refint\WebApiCrud.dll
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.pdb
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.genruntimeconfig.cache
+C:\Practica\ASP.NET Core\WebApiCrud\WebApiCrud\obj\Debug\net8.0\ref\WebApiCrud.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\appsettings.Development.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\appsettings.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.staticwebassets.endpoints.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.exe
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.deps.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.runtimeconfig.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\WebApiCrud.pdb
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Azure.Core.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Azure.Identity.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Humanizer.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.ClientModel.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.CodeDom.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Formats.Asn1.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Text.Json.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.csproj.AssemblyReference.cache
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.AssemblyInfoInputs.cache
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.AssemblyInfo.cs
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.csproj.CoreCompileInputs.cache
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.MvcApplicationPartsAssemblyInfo.cs
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.MvcApplicationPartsAssemblyInfo.cache
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\scopedcss\bundle\WebApiCrud.styles.css
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.build.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.development.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.WebApiCrud.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.WebApiCrud.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.build.WebApiCrud.props
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.WebApiCrud.props
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.WebApiCrud.props
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.csproj.Up2Date
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\refint\WebApiCrud.dll
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.pdb
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\WebApiCrud.genruntimeconfig.cache
+C:\Practica\ASP.NET Core & React Js\WebApiCrud\WebApiCrud\obj\Debug\net8.0\ref\WebApiCrud.dll

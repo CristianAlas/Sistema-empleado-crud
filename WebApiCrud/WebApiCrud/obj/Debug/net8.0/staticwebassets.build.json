@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dCw7doYdOUTkJccgzI6WaRDMNlu7xNs9O3lgypYcb5I=",
+  "Source": "WebApiCrud",
+  "BasePath": "_content/WebApiCrud",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
